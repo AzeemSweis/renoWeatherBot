@@ -1,0 +1,23 @@
+{
+  "name": "renoweathertwit",
+  "version": "1.0.0",
+  "description": "Reno Weather Forecast Twitter Weather Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzeemSweis/renoWeatherBot.git"
+  },
+  "author": "Azeem Sweis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AzeemSweis/renoWeatherBot/issues"
+  },
+  "homepage": "https://github.com/AzeemSweis/renoWeatherBot#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "twit": "^2.2.11"
+  }
+}
